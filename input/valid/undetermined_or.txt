@@ -1,0 +1,8 @@
+A => B | C
+
+=A
+
+?BC
+
+# B is Undetermined
+# C is Undetermined

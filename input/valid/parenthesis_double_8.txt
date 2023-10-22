@@ -1,0 +1,9 @@
+A | B + C => D
+((F | G) + (U | V) + (W | X) + (Y | Z)) + H + (R + (S | T) + (P | Q)) => E 
+
+=AF
+
+?DE
+
+# D is True
+# E is false

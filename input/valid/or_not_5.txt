@@ -1,0 +1,9 @@
+B + C => A 
+D | E | !Z => B 
+B => C 
+
+=
+
+?A 
+
+# A is True

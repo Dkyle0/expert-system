@@ -1,0 +1,9 @@
+A | B + C => D
+(((F | G) | I) | J) + H => E 
+
+=AJH
+
+?DE
+
+# D is True
+# E is True

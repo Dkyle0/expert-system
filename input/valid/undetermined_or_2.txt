@@ -1,0 +1,9 @@
+A => B | C | D
+
+=A
+
+?BCD
+
+# B is Undetermined
+# C is Undetermined
+# D is Undetermined

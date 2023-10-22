@@ -1,0 +1,17 @@
+A + B => C ##
+B + A => D#
+C + D => F #  #  #
+#
+##
+# # A + B => C
+# A + B => C #
+A + B => I # I is true
+
+=ABD
+
+?CDFI
+
+# C is True
+# D is True
+# F is True
+# I is True

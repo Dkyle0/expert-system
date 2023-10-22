@@ -1,0 +1,8 @@
+A + B => E
+=AB
+=E
+C + D => F
+
+?EF
+
+# Invalid

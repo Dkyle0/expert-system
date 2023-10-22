@@ -1,0 +1,10 @@
+A => B ^ C ^ D + E
+
+=A
+
+?BCDE
+
+# B is Undetermined
+# C is Undetermined
+# D is Undetermined
+# E is Undetermined

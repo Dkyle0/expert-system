@@ -1,0 +1,9 @@
+A | B + C => D
+(((F | G))) + H => E 
+
+=AFH
+
+?DE
+
+# D is True
+# E is True

@@ -1,0 +1,8 @@
+A => C
+C => !B
+
+=AB
+
+?B
+
+# Invalid

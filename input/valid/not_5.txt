@@ -1,0 +1,9 @@
+!A => B # A is True, so B is False
+!C => D # C is False, so D is True
+
+=A
+
+?BD
+
+# B is False
+# D is True

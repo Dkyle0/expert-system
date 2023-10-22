@@ -1,0 +1,9 @@
+A + B => C + D + U
+
+=AB
+
+?CDU
+
+# C is True
+# D is True
+# U is True

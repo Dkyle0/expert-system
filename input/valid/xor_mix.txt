@@ -1,0 +1,14 @@
+!(A + B) ^ (D | K) => P
+X | (A | K ^ Z) => N
+!T + !X => G
+!L => M
+
+=AD
+?PNGMTX
+
+# P is False
+# N is True
+# G is True
+# M is True
+# T is False
+# X is False

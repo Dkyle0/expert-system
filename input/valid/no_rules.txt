@@ -1,0 +1,6 @@
+=AZ
+
+?AZ
+
+# A is True
+# Z is True

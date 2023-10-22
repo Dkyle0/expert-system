@@ -1,0 +1,7 @@
+A ^ B + C => E
+
+=B
+
+?E 
+
+# E is false

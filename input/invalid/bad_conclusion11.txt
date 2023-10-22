@@ -1,0 +1,6 @@
+A => E ^ X ^
+
+=A
+?X
+
+# Invalid

@@ -1,0 +1,19 @@
+A ^ B => C
+B ^ C => E
+D ^ E => F
+F ^ G => H
+H ^ I => J
+J ^ K => L
+L ^ M => N
+N ^ O => P
+P ^ Q => R
+R ^ S => T
+T ^ U => V
+V ^ W => X
+X ^ Y => Z
+
+=A
+
+?Z
+
+# Z is True

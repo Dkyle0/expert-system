@@ -1,0 +1,8 @@
+A + B => C # rules
+D + E => F
+
+=ABD #Initial facts
+?CF # Queries 
+
+# C is True
+# F is False
